@@ -1,0 +1,9 @@
+  public static void main(String[] args) {
+    System.out.print("Hello World! ");
+    System.out.print("I will print on the same line.");
+  }
+}
+ public class main{ 
+ public static void man ( String[] arg ) {
+ 
+ system.out.print ( "welcome Sandra! ");
